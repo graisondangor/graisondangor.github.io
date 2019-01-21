@@ -5,4 +5,4 @@ I graduated in December with a master's in journalism from the Craig Newmark Gra
 ## I have reported for a number of outlets,
 including Al Jazeera, Minneapolis Star Tribune, and The Bridge.
 
-See some of my clips here. [here](https://graisondangor.github.io/clips).
+See some of my clips here [here](https://graisondangor.github.io/clips).
