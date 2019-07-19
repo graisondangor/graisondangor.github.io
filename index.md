@@ -10,7 +10,7 @@ NPR, Kaiser Health News, Al Jazeera, the Minneapolis Star Tribune, Financial Pla
 from the Craig Newmark Graduate School of Journalism at CUNY, where I specialized in business and economic reporting.
 
 ## Get in touch with me
-at <graison.dangor@gmail.com> or on [LinkedIn](https://linkedin.com/in/graisondangor).
+at <graison.dangor@gmail.com>, 612-202-6779 (text/call), and on [LinkedIn](https://linkedin.com/in/graisondangor).
 
 # Clips
 
