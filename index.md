@@ -1,3 +1,8 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content=“Graison Dangor, reporter covering the business of healthcare”>
+</head>
+
 ## Contact me
 at <graison.dangor@gmail.com>, 612-202-6779 (text/call), and on [LinkedIn](https://linkedin.com/in/graisondangor).
 
