@@ -4,11 +4,12 @@ at <graison.dangor@gmail.com>, 612-202-6779 (text/call), and on [LinkedIn](https
 ## Selected stories
 _NPR, Al Jazeera, others_
 
-
 - **NPR**
+-- [DNA Tests For Psychiatric Drugs Are Controversial But Some Insurers Are Covering Them](https://www.npr.org/sections/health-shots/2019/10/17/766473930/dna-tests-for-psychiatric-drugs-are-controversial-but-some-insurers-are-covering)
 -- ['Mental Health Parity' Is Still An Elusive Goal In U.S. Insurance Coverage](https://www.npr.org/sections/health-shots/2019/06/07/730404539/mental-health-parity-is-still-an-elusive-goal-in-u-s-insurance-coverage) (06/2019) (Also available from [Kaiser Health News](https://khn.org/news/legal-promise-of-equal-mental-health-treatment-often-falls-short/)
 
 - **Clear Health Costs**
+-- [How much does an air ambulance cost?](https://clearhealthcosts.com/blog/2019/10/how-much-does-an-air-ambulance-cost/)
 -- [How much does student health insurance cost?](https://clearhealthcosts.com/blog/2019/09/how-much-does-student-health-insurance-cost/)
 
 - **Financial Planning magazine**
