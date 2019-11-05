@@ -1,12 +1,17 @@
 <head>
   <title>Graison Dangor - Mental health journalist in Brooklyn</title>
 </head>
+### About me
+* Reporter focused on mental health and the business of healthcare
+* Degrees: Master's in Journalism - City University of New York, BA in English - University of Minnesota
+Graduate journalism degree, City University of New York; Bachelor's degree in English, University of Minnesota
+* Live in Brooklyn
+
 <a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border="2" style="border-radius: 50%; float:none; width:200px;"></a>
 ### Contact me
 * <graison.dangor@gmail.com>
 * 612-202-6779 ([call](tel:6122026779), <a href="sms:+16122026779">text</a>)
 * [LinkedIn](https://linkedin.com/in/graisondangor).
-* In person: Brooklyn, NY
 
 ### Selected stories
 
