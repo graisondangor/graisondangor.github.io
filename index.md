@@ -1,6 +1,5 @@
 <head>
-  <title>Graison Dangor - Reporting on mental health and the business of healthcare
-</title>
+  <title>Graison Dangor - Reporting on mental health and the business of healthcare</title>
 </head>
 
 ## Contact me
