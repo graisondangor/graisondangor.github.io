@@ -31,5 +31,5 @@
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
 
 
-### If you've noticed some of my stories are under a different last name..
+## If you've noticed some of my stories are under a different last name..
 It's because I took my wife's name when we got married. If that's confusing, here is [an article to read](https://www.bbc.com/news/stories-42720646).
