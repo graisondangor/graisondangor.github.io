@@ -1,5 +1,5 @@
 ## Contact me
-at <graison.dangor@gmail.com>, 612-202-6779 (text/call), and on [LinkedIn](https://linkedin.com/in/graisondangor).
+at <graison.dangor@gmail.com>, 612-202-6779 ([call](612-202-6779), <a href="sms:+16122026779">text</a>), and on [LinkedIn](https://linkedin.com/in/graisondangor).
 
 ## Selected stories
 _NPR, Al Jazeera, others_
