@@ -4,7 +4,7 @@
 
 ## Contact me
 at <graison.dangor@gmail.com>, 612-202-6779 ([call](tel:6122026779), <a href="sms:+16122026779">text</a>), and on [LinkedIn](https://linkedin.com/in/graisondangor). If you'd like to meet up in person: I live in Brooklyn.
-<img style="border-radius: 50%; float: right; width:200px" src="https://drive.google.com/file/d/1Xu7yVZeAgYuiCAlUEyP3YH7iTryVzsG4/uc?usp=sharing">
+<img style="border-radius: 50%; float: right; width:200px" src="https://ibb.co/Rp1fKPh">
 
 ## Selected stories
 _NPR, Al Jazeera, others_
