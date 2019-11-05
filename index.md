@@ -1,5 +1,5 @@
 <head>
-  <title>Graison Dangor - Reporting on mental health and the business of healthcare</title>
+  <title>Graison Dangor - Mental health journalist in Brooklyn</title>
 </head>
 <a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border="2" style="border-radius: 50%; float: right; width:200px;"></a>
 ### Contact me
