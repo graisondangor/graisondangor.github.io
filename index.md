@@ -1,8 +1,10 @@
-# Hi, I'm Graison Dangor.
-I report stories about mental health, the business of healthcare, and sometimes about other things.
+<head>
+  <title>Graison Dangor - Reporting on mental health and the business of healthcare
+</title>
+</head>
 
 ## Contact me
-at <graison.dangor@gmail.com>, 612-202-6779 ([call](tel:6122026779), <a href="sms:+16122026779">text</a>), and on [LinkedIn](https://linkedin.com/in/graisondangor).
+at <graison.dangor@gmail.com>, 612-202-6779 ([call](tel:6122026779), <a href="sms:+16122026779">text</a>), and on [LinkedIn](https://linkedin.com/in/graisondangor). If you'd like to meet up in person: I live in Brooklyn.
 
 
 ## Selected stories
