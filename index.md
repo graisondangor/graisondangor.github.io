@@ -5,7 +5,7 @@
 ### Contact me
 at <graison.dangor@gmail.com>, 612-202-6779 ([call](tel:6122026779), <a href="sms:+16122026779">text</a>), and on [LinkedIn](https://linkedin.com/in/graisondangor). If you'd like to meet up in person: I live in Brooklyn.
 
-<a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border=2 style="border-radius: 50%; float: right; width:200px;">></a>
+<a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border=2 style="border-radius: 50%; float: right; width:200px;"></a>
 
 ### Selected stories
 
