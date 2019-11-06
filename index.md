@@ -34,7 +34,7 @@ Hi! I'm a reporter focused on mental health and the business of healthcare. I ha
 #### Minneapolis Star Tribune
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
 
-*** 
+<br><br>
 
-> If you've noticed some of my stories are under a different last name...
-> It's because I took my wife's name when we got married. If that's confusing, here is [an article to read](https://www.bbc.com/news/stories-42720646).
+#### If you've noticed some of my stories are under a different last name...
+It's because I took my wife's name when we got married. If that's confusing, here is [an article to read](https://www.bbc.com/news/stories-42720646).
