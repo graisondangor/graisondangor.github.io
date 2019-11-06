@@ -15,7 +15,7 @@ Hi! I'm a reporter focused on mental health and the business of healthcare. I ha
 ## Selected stories
 
 #### NPR
-* [DNA Tests For Psychiatric Drugs Are Controversial But Some Insurers Are Covering Them](https://www.npr.org/sections/health-shots/2019/10/17/766473930/dna-tests-for-psychiatric-drugs-are-controversial-but-some-insurers-are-covering)
+* [DNA Tests For Psychiatric Drugs Are Controversial But Some Insurers Are Covering Them](https://www.npr.org/sections/health-shots/2019/10/17/766473930/dna-tests-for-psychiatric-drugs-are-controversial-but-some-insurers-are-covering) (10/2019)
 * ['Mental Health Parity' Is Still An Elusive Goal In U.S. Insurance Coverage](https://www.npr.org/sections/health-shots/2019/06/07/730404539/mental-health-parity-is-still-an-elusive-goal-in-u-s-insurance-coverage) (06/2019) (Also available from [Kaiser Health News](https://khn.org/news/legal-promise-of-equal-mental-health-treatment-often-falls-short/).)
 
 #### Clear Health Costs
