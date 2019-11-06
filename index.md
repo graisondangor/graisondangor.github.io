@@ -2,7 +2,7 @@
   <title>Graison Dangor - Mental health journalist in Brooklyn</title>
 </head>
 ### About me
-<a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border="2" style="border-radius: 50%; float:right; width:200px;"></a>
+<a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin:20px;"></a>
 Hi! I'm a reporter focused on mental health and the business of healthcare. I have an MA in journalism from the CUNY Graduate School of Journalism and and a BA in English from the University of Minnesota. Originally from Minneapolis, I live in Brooklyn with my wife and our dog.
 
 ### Contact me
@@ -32,6 +32,7 @@ Hi! I'm a reporter focused on mental health and the business of healthcare. I ha
 #### Minneapolis Star Tribune
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
 
+*** 
 
 > If you've noticed some of my stories are under a different last name...
-It's because I took my wife's name when we got married. If that's confusing, here is [an article to read](https://www.bbc.com/news/stories-42720646).
+> It's because I took my wife's name when we got married. If that's confusing, here is [an article to read](https://www.bbc.com/news/stories-42720646).
