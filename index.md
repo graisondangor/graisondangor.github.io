@@ -5,12 +5,14 @@
 <a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin:20px;"></a>
 Hi! I'm a reporter focused on mental health and the business of healthcare. I have an MA in journalism from the CUNY Graduate School of Journalism and and a BA in English from the University of Minnesota. Originally from Minneapolis, I live in Brooklyn with my wife and our dog.
 
+
 ### Contact me
 * <graison.dangor@gmail.com>
 * 612-202-6779 ([call](tel:6122026779), <a href="sms:+16122026779">text</a>)
 * [LinkedIn](https://linkedin.com/in/graisondangor)
 
-### Selected stories
+
+## Selected stories
 
 #### NPR
 * [DNA Tests For Psychiatric Drugs Are Controversial But Some Insurers Are Covering Them](https://www.npr.org/sections/health-shots/2019/10/17/766473930/dna-tests-for-psychiatric-drugs-are-controversial-but-some-insurers-are-covering)
