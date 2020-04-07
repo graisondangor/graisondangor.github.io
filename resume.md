@@ -7,6 +7,7 @@
 ## Contact 
 
 (612) 202-6779 - graison.dangor@gmail.com 
+
 501 East 21st St. Apt. B2 – Brooklyn, NY 11226
 
 &nbsp;
