@@ -19,6 +19,7 @@
 - Curating original and partner content in WordPress, Brightspot
 - Monitoring and optimizing performance of heds, deks, and art
 - Copywriting/editing to fit house voice and style
+  
   &nbsp;
 
 ## Experience
@@ -56,6 +57,8 @@
 **_9/2013–2/2015_**
 
 - Reported four dozen stories on local business, politics, and culture.
+
+&nbsp;
 
 ## Education
 
