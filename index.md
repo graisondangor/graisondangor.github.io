@@ -1,5 +1,5 @@
 <head>
-  <title>Graison Dangor - Mental health journalist in Brooklyn</title>
+  <title>Graison Dangor - Journalist covering mental health</title>
 </head>
 ### About me
 <a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
@@ -7,7 +7,8 @@ Hi, I'm a reporter in New York covering mental health, public health, and the th
 
 ### Contact me
 * <graison.dangor@gmail.com>
-* 612-202-6779 ([call](tel:6122026779), [SMS](sms:6122026779), <a href="sms:+16122026779">text</a>)
+* (m) 612-202-6779
+* [@graisondangor](https://twitter.com/graisondangor)
 * [LinkedIn](https://linkedin.com/in/graisondangor)
 
 
@@ -15,7 +16,7 @@ Hi, I'm a reporter in New York covering mental health, public health, and the th
 
 ### Forbes
 * [This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’](https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/?sh=7991debf2038)(10/2020)
-* [The Debates Ignored Mental Health. Here’s Where Trump And Biden Stand][(https://www.forbes.com/sites/graisondangor/2020/10/22/the-debates-ignored-mental-health-heres-where-trump-and-biden-stand/) (10/2020)
+* [The Debates Ignored Mental Health. Here’s Where Trump And Biden Stand](https://www.forbes.com/sites/graisondangor/2020/10/22/the-debates-ignored-mental-health-heres-where-trump-and-biden-stand/) (10/2020)
 
 #### NPR
 * [Raising The Minimum Wage By $1 May Prevent Thousands Of Suicides, Study Shows](https://www.npr.org/sections/health-shots/2020/01/08/794568118/raising-the-minimum-wage-by-1-may-prevent-thousands-of-suicides-study-shows) (1/2020)
