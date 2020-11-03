@@ -3,14 +3,13 @@
 </head>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/h9dtY0k/headshot-september-2020.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
-I'm a reporter in New York covering mental health, public health, and the things that affect each of them, especially the economy and public policy. I'm a [regular contributor to Forbes](https://www.forbes.com/sites/graisondangor/?sh=70f32f4d211e) and have also [reported stories for NPR](https://www.npr.org/search?query=%22graison%20dangor%22&page=1), Kaiser Health News, Al Jazeera, and others.
+Hi, I'm a reporter in New York covering mental health, public health, and the things that affect each of them, especially the economy and public policy. I'm a [regular contributor to Forbes](https://www.forbes.com/sites/graisondangor/?sh=70f32f4d211e) and have also [reported stories for NPR](https://www.npr.org/search?query=%22graison%20dangor%22&page=1), Kaiser Health News, Al Jazeera, and others.
 
-Get in touch with me at <graison.dangor@gmail.com> or 612-202-6779 (call or text). 
+Get in touch with me at <graison.dangor@gmail.com> or via call/text at 612-202-6779.
 
 <br>
-<br>
 
-### Selected stories
+## Selected stories
 
 #### Forbes
 * [This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’](https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/?sh=7991debf2038)(10/2020)
