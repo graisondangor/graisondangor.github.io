@@ -2,7 +2,7 @@
   <title>Graison Dangor - Journalist covering mental health</title>
 </head>
 ### About me
-<a href="https://ibb.co/Njf6MWM"><img src="https://i.ibb.co/2tR7TcT/graison.png" alt="profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
+<a href="https://ibb.co/Njf6MWM"><img src="https://ibb.co/V9CPw6d" alt="profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
 Hi, I'm a reporter in New York covering mental health, public health, and the things that affect each of them, especially the economy and public policy. I'm a [regular contributor to Forbes](https://www.forbes.com/sites/graisondangor/?sh=70f32f4d211e) and have also [reported stories for NPR](https://www.npr.org/search?query=%22graison%20dangor%22&page=1), Kaiser Health News, Al Jazeera, and others.
 
 ### Contact me
