@@ -5,7 +5,8 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/h9dtY0k/headshot-september-2020.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
 Hi, I'm a reporter in New York covering mental health, public health, and the things that affect each of them, especially the economy and public policy. I'm a [regular contributor to Forbes](https://www.forbes.com/sites/graisondangor/?sh=70f32f4d211e) and have also [reported stories for NPR](https://www.npr.org/search?query=%22graison%20dangor%22&page=1), Kaiser Health News, Al Jazeera, and others.
 
-Get in touch with me at <graison.dangor@gmail.com> or via call/text at 612-202-6779.
+Get in touch with me at <graison.dangor@gmail.com> or
+via call/text at 612-202-6779.
 
 <br>
 
@@ -41,4 +42,4 @@ Get in touch with me at <graison.dangor@gmail.com> or via call/text at 612-202-6
 
 #### Minneapolis Star Tribune
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
-  - *This story, and others before 2016, are under my original surname, Hensley Chapman. I took my wife's last name when got got married. If that's confusing, check out [this article](https://www.bbc.com/news/stories-42720646).* 
+  - *This story, and others before 2016, are under my original surname, Hensley Chapman. I took my wife's last name when we got married. If that's confusing, check out [this article](https://www.bbc.com/news/stories-42720646).* 
