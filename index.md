@@ -39,8 +39,4 @@ Hi, I'm a reporter in New York covering mental health, public health, and the th
 
 #### Minneapolis Star Tribune
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
-
-<br><br>
-
-#### If you've noticed some of my stories are under a different last name...
-It's because I took my wife's name when we got married. If that's confusing, here is [an article to read](https://www.bbc.com/news/stories-42720646).
+ - This story, and others before 2016, are under my original surname, Hensley Chapman. I took my wife's last name when got got married. If that's confusing, check out [this article](https://www.bbc.com/news/stories-42720646). 
