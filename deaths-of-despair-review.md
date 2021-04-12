@@ -7,7 +7,7 @@
 # How deaths of despair reached white communities
 ## Two economists tell the story and suggest reforms.
 ### Published June 3, 2020 in The Christian Century
-<a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">Link to story at ChristianCentury.org <i>(Paywall)</i></a>
+<a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">Link to (paywalled) review at ChristianCentury.org</a>
 
 <p>Over the last decade, as the opioid crisis grew in severity, a new phrase came to describe a wave of deaths plaguing downwardly mobile white people. Today we know that suicide, overdoses, and alcoholic liver poisoning have claimed the lives of more than 600,000 people in middle age in the US over the last two decades, a catastrophe on the scale of the AIDS crisis. We know about these “deaths of despair” thanks to Anne Case and Angus Deaton, the economist power couple who coined the term. Their new book argues that these deaths are the result of the “destruction of the white working class” by deindustrialization, the parasitic growth of health-care costs, and other ways the wealthy have rigged markets to suck ever more money out of workers.</p>
 <p>The story begins in the 1970s, when postwar economic growth began to slow. To maintain profits, corporations wrested larger and larger shares of the proceeds from workers. They moved factories to countries where they could pay people less and bought new machines that replaced workers. With­out college degrees, these workers could find only lower-paying service jobs, often as contract employees without health insurance.</p>
