@@ -9,7 +9,7 @@
 
 
 ## How deaths of despair reached white communities
-<br><i>Two economists tell the story and suggest reforms.</i></b>
+*Two economists tell the story and suggest reforms.*
 <br>
 
 Published June 3, 2020 in The Christian Century <a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">(link to paywalled review)</a>
