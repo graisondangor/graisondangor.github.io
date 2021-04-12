@@ -10,10 +10,11 @@ via call/text at 612-202-6779.
 
 <br>
 
-## Selected stories
+## Selected news stories
 
 #### Forbes
-* [This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’](https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/?sh=7991debf2038)(10/2020)
+* [Mental Health Providers Worry They’ll Be Left Out Of First Vaccine Allocations](https://www.forbes.com/sites/graisondangor/2020/12/16/mental-health-providers-worry-theyll-be-left-out-of-first-vaccine-allocations/) (12/2020)
+* [This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’](https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/?sh=7991debf2038) (10/2020)
 * [The Debates Ignored Mental Health. Here’s Where Trump And Biden Stand](https://www.forbes.com/sites/graisondangor/2020/10/22/the-debates-ignored-mental-health-heres-where-trump-and-biden-stand/) (10/2020)
 <br>
 
@@ -43,3 +44,10 @@ via call/text at 612-202-6779.
 #### Minneapolis Star Tribune
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
   - *This story, and others before 2016, are under my original surname, Hensley Chapman. I took my wife's last name when we got married. If that's confusing, check out [this article](https://www.bbc.com/news/stories-42720646).* 
+
+## Book reviews
+#### NPR
+* [Listen, Open Up, Connect: A Mental Health Expert's Advice On Living Through A Crisis](https://www.npr.org/sections/health-shots/2020/09/19/914584236/listen-open-up-connect-a-mental-health-experts-advice-on-living-through-a-crisis/) (9/2020)
+<br>
+#### The Christian Century
+* [How deaths of despair reached white communities](https://github.com/graisondangor/graisondangor.github.io/blob/master/deaths-of-despair-review) (6/2020)
