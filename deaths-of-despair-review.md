@@ -13,7 +13,7 @@
 <br>
 <br>
 
-Published June 3, 2020 in The Christian Century <a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">(link to paywalled review</a>
+Published June 3, 2020 in The Christian Century <a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">(link to paywalled review)</a>
 <br>
 <br>
 
