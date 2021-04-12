@@ -5,7 +5,8 @@
 #### Book Review
 <br>
 
-<a href="graisondangor.net"><i>Return to About Me page</i></a>
+<a href="graisondangor.net"><i>(Return to </i>About Me<i> page)</i></a>
+<br>
 
 ## How deaths of despair reached white communities
 <i>Two economists tell the story and suggest reforms.</i>
