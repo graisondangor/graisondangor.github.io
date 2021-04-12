@@ -49,5 +49,6 @@ via call/text at 612-202-6779.
 #### NPR
 * [Listen, Open Up, Connect: A Mental Health Expert's Advice On Living Through A Crisis](https://www.npr.org/sections/health-shots/2020/09/19/914584236/listen-open-up-connect-a-mental-health-experts-advice-on-living-through-a-crisis/) (9/2020)
 <br>
+
 #### The Christian Century
 * [How deaths of despair reached white communities](https://graisondangor.github.io/deaths-of-despair-review) (6/2020)
