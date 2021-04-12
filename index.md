@@ -43,7 +43,7 @@ via call/text at 612-202-6779.
 
 #### Minneapolis Star Tribune
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
-  - *This story, and others before 2016, are under my original surname, Hensley Chapman. I [took my wife's last name](https://www.bbc.com/news/stories-42720646) when we got married.* 
+  - *This story, and others before 2016, are under my original surname, Hensley Chapman. [Like more and more men](https://www.bbc.com/news/stories-42720646) have been doing, I took my wife's last name when we got married.* 
 
 <br>
 
