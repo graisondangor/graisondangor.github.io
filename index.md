@@ -3,7 +3,7 @@
 </head>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/h9dtY0k/headshot-september-2020.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
-Hi, I'm a reporter in New York [covering breaking news](https://www.forbes.com/sites/graisondangor/) for Forbes. I've reported on mental health, public health, and business both at Forbes and as a freelancer for [NPR](https://www.npr.org/search?query=%22graison%20dangor%22&page=1), Kaiser Health News, Al Jazeera, and elsewhere.
+Hi, I'm a reporter in New York [covering breaking news](https://www.forbes.com/sites/graisondangor/) for Forbes. I've reported on mental health, public health, and business both at Forbes and as a freelancer for NPR, Kaiser Health News, Al Jazeera, and elsewhere.
 
 The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
