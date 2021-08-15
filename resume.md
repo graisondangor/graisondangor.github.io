@@ -6,8 +6,7 @@
 ## Journalist in Brooklyn, NY
 &nbsp;
 ## Contact 
-(612) 202-6779 - graison.dangor@gmail.com 
-501 East 21st St. Apt. B2 – Brooklyn, NY 11226
+347-567-6367 - graison.dangor@gmail.com 
 &nbsp;
 
 ## Skills
@@ -19,8 +18,13 @@
 &nbsp;
 ## Experience
 
+### Breaking News Reporter
+**_6/2021–present_**
+- Report several stories daily on breaking news, with a focus on public health and business stories.
+
 ### Freelance reporter
-**_3/2018–present_**
+**_3/2018–5/2021_**
+- Forbes: Reported stories on mental health public policy and businesses.
 - NPR: Reported four stories on mental health, healthcare, insurance, antibiotics.
 - Al Jazeera: Co-reported op-ed on journalism ethics in the opioid crisis.
 - ClearHealthCosts:
