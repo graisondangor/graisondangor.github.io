@@ -1,20 +1,21 @@
 <head>
-  <title>Graison Dangor - Journalist covering mental health</title>
+  <title>Graison Dangor - Journalist</title>
 </head>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/h9dtY0k/headshot-september-2020.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
-Hi, I'm a reporter in New York covering mental health, public health, and the things that affect each of them, especially the economy and public policy. I'm a [regular contributor to Forbes](https://www.forbes.com/sites/graisondangor/?sh=70f32f4d211e) and have also [reported stories for NPR](https://www.npr.org/search?query=%22graison%20dangor%22&page=1), Kaiser Health News, Al Jazeera, and others.
+Hi, I'm a reporter in New York [covering breaking news](https://www.forbes.com/sites/graisondangor/) for Forbes. I've reported on mental health, public health, and business both at Forbes and as a freelancer for [NPR](https://www.npr.org/search?query=%22graison%20dangor%22&page=1), Kaiser Health News, Al Jazeera, and elsewhere.
 
-Get in touch with me at <graison.dangor@gmail.com> or
-via call/text at 347-567-6367.
+The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
 <br>
 
 ## Selected news stories
 
 #### Forbes
+* [Will Wealthy Countries Take In Afghan Refugees? Here’s What Europe, Canada And The U.S. Are Doing.](https://www.forbes.com/sites/graisondangor/2021/08/14/will-wealthy-countries-take-in-afghan-refugees-heres-what-europe-canada-and-the-us-are-doing/?sh=61801b402e10) (8/2021)
+* [County Hit Early By Delta Had More Breakthrough Cases, CDC Study Finds](https://www.forbes.com/sites/graisondangor/2021/08/06/county-hit-early-by-delta-had-more-breakthrough-cases-cdc-study-finds/?sh=30bf9d972aa4) (7/2021)
+* [The Housing Shortage Is Worse Than Ever—And Will Take A Decade Of Record Construction To Fix, New Reports Say](https://www.forbes.com/sites/graisondangor/2021/06/16/the-housing-shortage-is-worse-than-ever-and-will-take-a-decade-of-record-construction-to-fix-new-reports-say/?sh=31f1ea394953) (6/2021)
 * [Mental Health Providers Worry They’ll Be Left Out Of First Vaccine Allocations](https://www.forbes.com/sites/graisondangor/2020/12/16/mental-health-providers-worry-theyll-be-left-out-of-first-vaccine-allocations/) (12/2020)
-* [This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’](https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/?sh=7991debf2038) (10/2020)
 * [The Debates Ignored Mental Health. Here’s Where Trump And Biden Stand](https://www.forbes.com/sites/graisondangor/2020/10/22/the-debates-ignored-mental-health-heres-where-trump-and-biden-stand/) (10/2020)
 <br><br>
 
