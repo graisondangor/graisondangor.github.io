@@ -12,7 +12,7 @@
 *Two economists tell the story and suggest reforms.*
 <br>
 
-![Deaths of Despair, by Anne Case and Angus Deaton](https://pup-assets.imgix.net/onix/images/9780691190785.jpg?w=410&auto=format)
+<a href><img src="https://pup-assets.imgix.net/onix/images/9780691190785.jpg" alt="Deaths of Despair cover" border="2" style="width:400px; margin-left:20px; margin-right:20px"></a>
 
 Published June 3, 2020 in The Christian Century <a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">(link to paywalled review)</a>
 <br>
