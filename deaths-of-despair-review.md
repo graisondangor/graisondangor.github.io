@@ -13,7 +13,7 @@
 <br>
 
 <div style="width:50%;text-align:center;">
-<a href><img src="https://pup-assets.imgix.net/onix/images/9780691190785.jpg" alt="Deaths of Despair cover"></a>
+<a href="book-cover"><img src="https://pup-assets.imgix.net/onix/images/9780691190785.jpg" alt="Deaths of Despair cover"></a>
 </div>
 
 Published June 3, 2020 in The Christian Century <a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">(link to paywalled review)</a>
