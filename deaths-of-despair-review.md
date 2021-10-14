@@ -12,7 +12,7 @@
 *Two economists tell the story and suggest reforms.*
 <br>
 
-<a href="style=text-align: center"><img src="https://pup-assets.imgix.net/onix/images/9780691190785.jpg" alt="Deaths of Despair cover" border="2" style="height:400px; padding: 10px;"></a>
+<a href="" "style=text-align: center"><img src="https://pup-assets.imgix.net/onix/images/9780691190785.jpg" alt="Deaths of Despair cover" border="2" style="height:400px; padding: 10px;"></a>
 
 Published June 3, 2020 in The Christian Century <a href="https://www.christiancentury.org/review/books/how-deaths-despair-reached-white-communities">(link to paywalled review)</a>
 <br>
