@@ -3,7 +3,7 @@
 </head>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/h9dtY0k/headshot-september-2020.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
-Hi, I'm a journalist in New York. Currently a researcher for Forbes, I have reported on mental health, Covid-19, business, and breaking news for Forbes, NPR, Kaiser Health News, Al Jazeera, and elsewhere.
+Hi, I'm a reporter and writer in New York. I have reported on mental health, Covid-19, business, and breaking news for NPR, Kaiser Health News, Al Jazeera, and Forbes, where I have also worked as a background researcher and email newsletter writer. Before moving to New York, I worked as a copywriter in Minneapolis.
 
 The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
@@ -50,6 +50,8 @@ The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
 ## Book reviews
 #### NPR
+* [When facing loss, embrace change and don't force closure, a therapist urges ![image](https://user-images.githubusercontent.com/36009934/151672137-9d5b4659-c6f8-4112-9dcc-2005249d7d1d.png)(1/2022)
+](https://www.npr.org/sections/health-shots/2022/01/05/1068368442/when-facing-loss-embrace-change-and-dont-force-closure-a-therapist-urges)
 * [Listen, Open Up, Connect: A Mental Health Expert's Advice On Living Through A Crisis](https://www.npr.org/sections/health-shots/2020/09/19/914584236/listen-open-up-connect-a-mental-health-experts-advice-on-living-through-a-crisis/) (9/2020)
 <br>
 
