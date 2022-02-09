@@ -50,8 +50,7 @@ The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
 ## Book reviews
 #### NPR
-* [When facing loss, embrace change and don't force closure, a therapist urges ![image](https://user-images.githubusercontent.com/36009934/151672137-9d5b4659-c6f8-4112-9dcc-2005249d7d1d.png)(1/2022)
-](https://www.npr.org/sections/health-shots/2022/01/05/1068368442/when-facing-loss-embrace-change-and-dont-force-closure-a-therapist-urges)
+* [When facing loss, embrace change and don't force closure, a therapist urges](https://user-images.githubusercontent.com/36009934/151672137-9d5b4659-c6f8-4112-9dcc-2005249d7d1d.png)(1/2022)
 * [Listen, Open Up, Connect: A Mental Health Expert's Advice On Living Through A Crisis](https://www.npr.org/sections/health-shots/2020/09/19/914584236/listen-open-up-connect-a-mental-health-experts-advice-on-living-through-a-crisis/) (9/2020)
 <br>
 
