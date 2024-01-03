@@ -14,6 +14,15 @@ The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
 <br>
 
+## Email newsletter samples
+
+#### Need2Know - Cheddar News
+* [Monday, January 2, 2024](https://link.cheddar.com/view/6312193955a38bc830051e56k5qsl.6ssb/4b7303c5)
+* [Friday, December 29, 2023](https://link.cheddar.com/view/6312193955a38bc830051e56k579n.6o5s/1d8b17b5)
+* [Thursday, December 28, 2023](https://link.cheddar.com/view/6312193955a38bc830051e56k4zk8.6l2v/e4ac529e) 
+
+<br>
+
 ## Selected news stories
 
 #### Forbes
