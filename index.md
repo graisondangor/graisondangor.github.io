@@ -6,7 +6,7 @@
 
 Hi, I'm a reporter and newsletter writer in New York. 
 
-As the sole writer for a cable news outlet's weekday newsletter, I grew subscribers past 400,000 while triplng its referral traffic to the website and growing ad revenue.
+As the sole writer for a cable news outlet's weekday newsletter, I grew subscribers past 400,000 while tripling referral traffic to cheddar.com and growing ad revenue.
 
 As a reporter, I have covered mental health, Covid-19, business, and breaking news for NPR, Kaiser Health News, Al Jazeera, and Forbes, where I also researched candidates for its _30 Under 30_ and _Next 1,000_ lists. Before moving to New York, I worked as a copywriter in Minneapolis.
 
