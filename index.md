@@ -3,7 +3,12 @@
 </head>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/h9dtY0k/headshot-september-2020.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
-Hi, I'm a reporter and writer in New York. I have reported on mental health, Covid-19, business, and breaking news for NPR, Kaiser Health News, Al Jazeera, and Forbes, where I have also worked as a background researcher and email newsletter writer. Before moving to New York, I worked as a copywriter in Minneapolis.
+
+Hi, I'm a reporter and newsletter writer in New York. 
+
+As the sole writer for a cable news outlet's weekday newsletter, I grew subscribers past 400,000 while triplng its referral traffic to the website and growing ad revenue.
+
+As a reporter, I have covered mental health, Covid-19, business, and breaking news for NPR, Kaiser Health News, Al Jazeera, and Forbes, where I also researched candidates for its _30 Under 30_ and _Next 1,000_ lists. Before moving to New York, I worked as a copywriter in Minneapolis.
 
 The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
@@ -44,7 +49,7 @@ The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
 
 #### Minneapolis Star Tribune
 * [Food shelves in west metro see many signs of continuing, increased need](http://www.startribune.com/food-shelves-in-west-metro-see-many-signs-of-continuing-increased-need/236073631/) (12/2013)
-  - *This story, and others before 2016, are under my original surname, Hensley Chapman. Like more and more men [have been doing](https://www.bbc.com/news/stories-42720646), I took my wife's last name when we got married.* 
+  - *This story, and others before 2016, are under my original surname, Hensley Chapman. As more men [have been doing](https://www.bbc.com/news/stories-42720646), I took my wife's last name when we got married.* 
 
 <br>
 
