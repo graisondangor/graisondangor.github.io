@@ -2,7 +2,7 @@
   <title>Graison Dangor - Journalist</title>
 </head>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/x8dZzFqR/gd-headshot-2-5-25.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
+<img src="https://i.ibb.co/x8dZzFqR/gd-headshot-2-5-25.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;">
 
 Hi, I'm a journalist and writer in New York. 
 
