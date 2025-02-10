@@ -1,5 +1,5 @@
 <head>
-  <title>Graison Dangor - Journalist</title>
+  <title>Graison Dangor - Journalist and writer in New York.</title>
 </head>
 
 <img src="https://i.ibb.co/x8dZzFqR/gd-headshot-2-5-25.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;">
