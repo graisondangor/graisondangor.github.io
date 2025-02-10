@@ -2,15 +2,15 @@
   <title>Graison Dangor - Journalist</title>
 </head>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/h9dtY0k/headshot-september-2020.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/x8dZzFqR/gd-headshot-2-5-25.jpg" alt="graison-dangor-profile-photo" border="2" style="border-radius: 50%; float:right; width:200px; margin-left:20px;"></a>
 
-Hi, I'm a reporter and newsletter writer in New York. 
+Hi, I'm a journalist and writer in New York. 
 
-As the sole writer for a cable news outlet's weekday newsletter, I grew subscribers past 400,000 while tripling referral traffic to cheddar.com and growing ad revenue.
+As a reporter I have interviewed executives, politicians, legal experts, and scientists &mdash; and the regular people who live with the results of their decisions for outlets  I have covered the corporate finance and mental health beats and reported stories on everything from the Covid-19 pandemic and the Supreme Court to small-town political battles. My work has been published in outlets including NPR, KFF Health News, Al Jazeera, Forbes, and the Star Tribune.
 
-As a reporter, I have covered mental health, Covid-19, business, and breaking news for NPR, Kaiser Health News, Al Jazeera, and Forbes, where I also researched candidates for its _30 Under 30_ and _Next 1,000_ lists. Before moving to New York, I worked as a copywriter in Minneapolis.
+Beyond reporting, I've written newsletters with hundreds of thousands of subscribers, researched healthcare prices for a medical cost transparency nonprofit, and dug deep into legal and financial histories to vet candidates for Forbes  _30 Under 30_ and _Next 1,000_ lists. I've also worked as a copywriter. 
 
-The best way to reach me is <graison.dangor@gmail.com> or 347-567-6367.
+Reach me at <graison.dangor@gmail.com>.
 
 <br>
 
