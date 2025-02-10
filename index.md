@@ -6,11 +6,7 @@
 
 Hi, I'm a journalist and writer in New York. 
 
-As a reporter I have interviewed executives, politicians, legal experts, and scientists &mdash; and the regular people who live with the results of their decisions. 
-
-I have covered the corporate finance and mental health beats and reported stories on everything from the Covid-19 pandemic and the Supreme Court to small-town political battles. 
-
-My work has been published in outlets including NPR, KFF Health News, Al Jazeera, Forbes, and the Star Tribune.
+As a reporter I have interviewed executives, politicians, legal experts, and scientists &mdash; and the regular people who live with the results of their decisions. I have covered the corporate finance and mental health beats and reported stories on everything from the Covid-19 pandemic and the Supreme Court to small-town political battles. My work has been published in outlets including NPR, KFF Health News, Al Jazeera, Forbes, and the Star Tribune.
 
 Beyond reporting, I've written newsletters with hundreds of thousands of subscribers, researched healthcare prices for a medical cost transparency nonprofit, and dug deep into legal and financial histories to vet candidates for Forbes  _30 Under 30_ and _Next 1,000_ lists. I've also worked as a copywriter. 
 
